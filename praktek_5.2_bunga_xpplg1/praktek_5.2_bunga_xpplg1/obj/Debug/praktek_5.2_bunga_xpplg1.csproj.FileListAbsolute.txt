@@ -1,0 +1,7 @@
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\bin\Debug\praktek_5.2_bunga_xpplg1.exe.config
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\bin\Debug\praktek_5.2_bunga_xpplg1.exe
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\bin\Debug\praktek_5.2_bunga_xpplg1.pdb
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\obj\Debug\praktek_5.2_bunga_xpplg1.csproj.AssemblyReference.cache
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\obj\Debug\praktek_5.2_bunga_xpplg1.csproj.CoreCompileInputs.cache
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\obj\Debug\praktek_5.2_bunga_xpplg1.exe
+C:\bunga\praktek_5.2_bunga_xpplg1\praktek_5.2_bunga_xpplg1\obj\Debug\praktek_5.2_bunga_xpplg1.pdb
