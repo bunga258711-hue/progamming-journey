@@ -1,0 +1,7 @@
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\bin\Debug\praktik6.1_bunga_xpplg.exe.config
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\bin\Debug\praktik6.1_bunga_xpplg.exe
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\bin\Debug\praktik6.1_bunga_xpplg.pdb
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\obj\Debug\praktik6.1_bunga_xpplg.csproj.AssemblyReference.cache
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\obj\Debug\praktik6.1_bunga_xpplg.csproj.CoreCompileInputs.cache
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\obj\Debug\praktik6.1_bunga_xpplg.exe
+C:\bunga\praktik6.1_bunga_xpplg\praktik6.1_bunga_xpplg\obj\Debug\praktik6.1_bunga_xpplg.pdb
